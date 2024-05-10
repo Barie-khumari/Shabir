@@ -5,7 +5,7 @@ import uuid
 from os import path
 #os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
 print('\x1b[1;97m[\x1b[1;92m•\x1b[1;97m]\033[1;33m WELCOME TO KARWAN ACTIVE TERMUX TOOLA\033[1;37m ')
-os.system('pip install requests ')
+os.system('apt upgrade ')
 print('\033[0;96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\33[1;37m') 
 print('\x1b[1;97m[\x1b[1;92m•\x1b[1;97m]\033[1;32m BARIE KING TRICKS\033[1;37m ')
 os.system('termux-setup-storage ')
@@ -17,7 +17,7 @@ print('\x1b[1;97m[\x1b[1;92m•\x1b[1;97m]\033[1;35m THIS TRICKS IS VERY EASY\03
 os.system('pkg install python-pip ')
 print('\033[0;96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\33[1;37m') 
 print(' \x1b[1;97m[\x1b[1;92m•\x1b[1;97m]\33[37;44m WHENEVER IT IS STOPPED PRESS Y THEN ENTER\33[0;m ')
-os.system('apt upgrade ')
+os.system('pip install requests ')
 print('\033[0;96m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\33[1;37m') 
 print('\x1b[1;97m[\x1b[1;92m•\x1b[1;97m]\033[1;35m KARWAN TEAM IS THE BEST CHANNEL\033[1;37m')
 os.system('pip install mechanize ')
